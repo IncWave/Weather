@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_screen_fragment">Main Screen Fragment</string>
+    <string name="permission_denied">PERMISSION DENIED!!!</string>
+    <string name="get_weather">Get weather</string>
+    <string name="show_details">Show details</string>
+</resources>
